@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ch08/2021kbo.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/ch08/fileIO/2021kbo.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/ch08/fileIO/hello.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/ch08/fileIO/input.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/ch08/score/score.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/ch08/score/scorelist.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/ch08/try_except/2021kbo.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/exercise/input.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/exercise/memo.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/file_io/score.txt" charset="x-windows-949" />
+  </component>
+</project>
